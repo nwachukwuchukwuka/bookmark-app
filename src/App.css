@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ li:hover {
+     color: brown;
+     cursor: pointer;
+      border-bottom: 1px solid red;
+ }
+ button:hover {
+   opacity: 0.8
+ }
